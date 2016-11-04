@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string-array name="liveCircles">
+        <item>斗鱼</item>
+        <item>熊猫</item>
+        <item>虎牙</item>
+        <item>全民</item>
+        <item>战旗</item>
+    </string-array>
+</resources>
